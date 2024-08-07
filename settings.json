@@ -1,0 +1,55 @@
+{
+  "bot-account": {
+    "username": "ambersosexy",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "Terc1.aternos.me",
+    "port": 25565,
+    "version": "1.12.1"
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "                       :3                        ",
+        "I hate everyone.",
+        "Did you know? 1995 was the year that",
+        "Food.",
+        "Did you know? The first person convicted of speeding was going eight mph.",
+        "I might be a f  ggot chat...",
+        "OO LAA LAAAA!!! FURRY WOMEN!!!!",
+        "Meoww!!!",
+        "Amber's a hottie trust 100%",
+        "Hey guys, did you know that in terms of male human and female Pokémon..."
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
